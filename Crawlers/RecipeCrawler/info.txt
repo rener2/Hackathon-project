@@ -1,0 +1,3 @@
+Contains unfinished crawler for recipe.
+
+Toidutare.ee didn't allow to use their recipes in Recify.
